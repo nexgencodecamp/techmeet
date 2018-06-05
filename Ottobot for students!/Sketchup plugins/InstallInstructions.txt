@@ -1,0 +1,4 @@
+To install:
+1) Window -> Extension manager
+2) Install Extension
+3) Select plugin file (*.rbz)
